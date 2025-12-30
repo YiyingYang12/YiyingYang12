@@ -37,8 +37,6 @@ I am a first-year **PhD student** at **Fudan University** under the supervision 
 
 [![Project](https://img.shields.io/badge/Project-Page-blue)](https://omnisvg.github.io/) [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/abs/2504.06263) [![GitHub Stars](https://img.shields.io/github/stars/OmniSVG/OmniSVG?style=social)](https://github.com/OmniSVG/OmniSVG)
 
----
-
 ### Scene123: One Prompt to 3D Scene Generation via Video-Assisted and Consistency-Enhanced MAE
 **ACM MM, 2025**
 
@@ -46,17 +44,12 @@ I am a first-year **PhD student** at **Fudan University** under the supervision 
 
  [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://dl.acm.org/doi/abs/10.1145/3746027.3755133)
 
----
-
 ### Pm-INR: Prior-rich Multi-modal Implicit Large-scale Scene Neural Representation
 **AAAI, 2024 (Oral)**
-
 
 **Yiying Yang**, Fukun Yin, Wen Liu, Jiayuan Fan, Xin Chen, Gang Yu, Tao Chen
 
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://ojs.aaai.org/index.php/AAAI/article/view/28481)
-
----
 
 ### VQ-NeRF: Vector Quantization Enhances Implicit Neural Representations
 **Arxiv, 2023**
@@ -65,7 +58,6 @@ I am a first-year **PhD student** at **Fudan University** under the supervision 
 
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/abs/2310.14487)
 
----
 
 ## 🎓 Education
 
