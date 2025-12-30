@@ -2,8 +2,6 @@
   
 # 👋 Hi, I'm Yiying Yang (杨依颖)
 
-<img src="./assets/avatar.jpg" width="150" style="border-radius: 50%;" />
-
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/YiyingYang12)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=googlescholar)](https://scholar.google.com/citations?user=jGsyIIAAAAAJ&hl=zh-CN)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:25113050158@m.fudan.edu.cn)
