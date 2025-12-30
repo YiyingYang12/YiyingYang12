@@ -20,6 +20,12 @@ I am a first-year **PhD student** at **Fudan University** under the supervision 
 - 🤖 Machine Learning
 
 
+## 💼 Experience
+
+| Period | Position | Organization | Supervisors |
+|--------|----------|--------------|-------------|
+| 💻 Jun. 2024 - Present | Research Intern | [Stepfun](https://www.stepfun.com/) | [Wei Cheng](https://github.com/wchengad) & [Gang Yu](https://www.skicyyu.org) |
+
 ---
 
 ## 📚 Publications
